@@ -1,2 +1,3 @@
-This project is about text classification.And project done by using Machine learning.
-Naive Bayes classifier algorithm is used to solve this project
+This project is about text classification. Here, Machine Learning Algorithm is used to classify the text.
+Classifier used: Naive Bayes.
+Library used: NLTK
