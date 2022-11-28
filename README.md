@@ -1,1 +1,1 @@
-This project is about text classification. Here, Machine Learning Algorithm is used to classify the text. Classifier used: Naive Bayes, SVM, knn (supervised learning). Library used: NLTK
+This project is about text classification. Machine Learning Algorithm is used to classify the text. Classifier used in ths projects were: Naive Bayes, SVM, knn (supervised learning). Library used: NLTK
